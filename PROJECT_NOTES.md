@@ -1,0 +1,1 @@
+Interview flow: React form/state -> fetch -> Express route -> Mongoose -> MongoDB -> JSON response -> React UI. CRUD = Create, Read, Update, Delete.
